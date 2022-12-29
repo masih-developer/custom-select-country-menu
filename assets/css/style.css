@@ -95,7 +95,7 @@ li {
 }
 
 .content .options {
-    margin-top: 10px;
+    margin-top: 20px;
     max-height: 250px;
     overflow-y: auto;
     padding-right: 7px;
@@ -129,4 +129,9 @@ li {
 li.selected {
     border-radius: 5px;
     background: #f2f2f2;
+}
+
+.not-found {
+    color: red;
+    font-size: 20px;
 }
